@@ -149,3 +149,8 @@ export function unregister() {
 		});
 	}
 }
+
+const files = {
+	name: 'tabs',
+	hate: 'dfld'
+};

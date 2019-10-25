@@ -15,5 +15,10 @@
     "plugins": [ "react-hooks", "prettier" ],
     "rules": {
         "prettier/prettier": "warn"
+    },
+    "settings": {
+        "react": {
+          "version": "detetect"
+        }
     }
 }

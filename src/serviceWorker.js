@@ -150,7 +150,8 @@ export function unregister() {
 	}
 }
 
-const files = {
+export const files = {
 	name: 'tabs',
-	hate: 'dfld'
+	hate: 'dfld',
+	waster: 'dance'
 };

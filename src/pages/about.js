@@ -5,5 +5,7 @@ import React from 'react';
  * @return {*}
  */
 export default function AboutPage() {
-	return <h3>About Page</h3>;
+	return (
+		<h3>About Page</h3>
+	);
 }

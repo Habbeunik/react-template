@@ -55,6 +55,18 @@ Runs lint on the `./src` folder and shows the error
 
 Runs lint and automatic fixes on the `./src` folder and shows the error
 
+### CSS Modules
+
+To use css modules the `.css` or `.scss` file must include `.module` e.g `header.module.scss`
+
+### Type Checking
+
+Proptypes is used for type checking
+
+### Testing
+
+Jest  and react-testing-library is used for testing
+
 ### Pre Commit 
 
 Runs `yarn lint:fix and yarn test` before git commits

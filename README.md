@@ -71,11 +71,11 @@ Jest  and react-testing-library is used for testing
   1. public
   2. server: express server to serve build files
   3. src
-    1. [assets](src/assets/assets.md)
-    1. [components](src/components/components.md)
-    1. [helpers](src/helpers/helpers.md)
-    1. [lib](src/lib/lib.md)
-    1. [pages](src/pages/pages.md)
+    1. [assets](src/assets/assets.md) 
+    2. [components](src/components/components.md)
+    3. [helpers](src/helpers/helpers.md)
+    4. [lib](src/lib/lib.md)
+    5. [pages](src/pages/pages.md)
 
 
 ### `Pre Commit` 

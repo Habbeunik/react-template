@@ -2,6 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * @params { Object } props
+ * @return { any } children
+ */
 function App() {
   return (
     <div className="App">

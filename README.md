@@ -67,15 +67,15 @@ Proptypes is used for type checking
 
 Jest  and react-testing-library is used for testing
 
-### `Folder Structure
+### `Folder Structure`
   1. public
   2. server: express server to serve build files
   3. src
-    * [assets](src/assets/assets.md)
-    * [components](src/components/components.md)
-    * [helpers](src/helpers/helpers.md)
-    * [lib](src/lib/lib.md)
-    * [pages](src/pages/pages.md)
+    1. [assets](src/assets/assets.md)
+    1. [components](src/components/components.md)
+    1. [helpers](src/helpers/helpers.md)
+    1. [lib](src/lib/lib.md)
+    1. [pages](src/pages/pages.md)
 
 
 ### `Pre Commit` 

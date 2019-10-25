@@ -70,7 +70,7 @@ Jest  and react-testing-library is used for testing
 ### `Folder Structure`
   1. public
   2. server: express server to serve build files
-  3. src
+  3. src <br/>
     1. [assets](src/assets/assets.md) <br />
     2. [components](src/components/components.md) <br />
     3. [helpers](src/helpers/helpers.md) <br />

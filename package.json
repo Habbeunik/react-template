@@ -10,14 +10,15 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test -a",
+    "test:watch": "react-scripts test --watchAll", 
     "eject": "react-scripts eject",
     "lint": "./node_modules/.bin/eslint ./src",
     "lint:fix": "./node_modules/.bin/eslint ./src --fix"
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn lint:fix"
+      "pre-commit": "yarn lint:fix && yarn test"
     }
   },
   "eslintConfig": {
